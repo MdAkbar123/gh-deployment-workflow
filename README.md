@@ -9,3 +9,5 @@ This project demonstrates a simple **Continuous Integration and Continuous Deplo
 ### Deployed URL
 Visit the deployed site at:
 https://MdAkbar123.github.io/gh-deployment-workflow/
+
+https://roadmap.sh/projects/github-actions-deployment-workflow
